@@ -26,11 +26,17 @@ FactuGlass est un outil de facturation interne qui automatise le calcul de factu
 ### Fonctionnalités principales
 
 ✅ **Gestion des collaborateurs** : Création, modification, coûts journaliers avec historique
+
 ✅ **Import XML** : Import des fichiers d'activités WINDEV
+
 ✅ **Facturation intelligente** : Calcul automatique avec calendrier français
+
 ✅ **Cycle de vie** : Gestion complète du workflow de facturation (brouillon → émise → validée)
+
 ✅ **Alertes automatiques** : Rappels des échéances de facturation
+
 ✅ **Détection d'anomalies** : Identification automatique des incohérences
+
 ✅ **Exports** : Génération de rapports CSV et Excel
 
 ---
